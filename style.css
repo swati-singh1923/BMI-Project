@@ -1,0 +1,30 @@
+body {
+    background-color: #212121;
+    color: white;
+    text-align: center;
+    margin-top: 50px;
+}
+
+h1 {
+    color: #f9a6d3;
+}
+
+p {
+    font-size: 1.2rem;
+}
+
+button {
+    padding: 5px 10px;
+    border-radius: 20px;
+    font-size: 20px;
+    font-family: 'Courier New', Courier, monospace;
+    margin-top: 10px;
+}
+
+#results {
+    color: #F7B5CA;
+}
+
+#guide {
+    color: #FFC6C6;
+}
